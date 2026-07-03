@@ -2,7 +2,7 @@
 
 **Effective date: July 3, 2026**
 
-Next Shot is a GLP-1 medication tracking app for iPhone, made by Dodo Media LLC ("we," "us"). This policy explains what information the app handles, where it goes, and the choices you have. The short version: **your health data stays on your device and in your own private iCloud account. We do not run servers, we do not have accounts, and we cannot see your data.**
+Next Shot is a GLP-1 medication tracking app for iPhone, made by Dodo Media LLC ("we," "us"). This policy explains what information the app handles, where it goes, and the choices you have. The short version: **your health data stays on your device and in your own private iCloud account. We do not run servers, we do not have accounts, and we cannot see your health data.** We use third-party tools for advertising and app analytics, described below — they never receive your health information.
 
 ## What the app stores
 
@@ -41,9 +41,14 @@ Subscriptions and purchases are processed by **Apple** through the App Store. We
 
 Dose reminders and related notifications are scheduled locally on your device. Notification content is generated on-device and is not sent to us.
 
-## Advertising and tracking
+## Advertising, analytics, and tracking
 
-Next Shot contains **no third-party analytics and no advertising SDKs**, and we do not track you across other apps or websites. The app may ask for App Tracking Transparency permission; today this permission is not used to collect or share any data. If a future version adds advertising-attribution technology, it would operate only with your permission and this policy will be updated first.
+We use third-party tools to advertise the app and understand how it is used. **None of these tools ever receive your health information** — your medications, doses, weight, metrics, side effects, and Apple Health data stay on your device and in your private iCloud, as described above.
+
+- **Meta (Facebook) SDK** — used to measure the performance of our ad campaigns. If you allow tracking when iOS asks (the App Tracking Transparency prompt), the SDK may share a device advertising identifier and app events (such as installs and purchases) with Meta to attribute ads and build advertising audiences across apps. If you tap "Ask App Not to Track," this cross-app tracking does not occur. See the [Meta privacy policy](https://www.facebook.com/privacy/policy/).
+- **PostHog** — product analytics that helps us see which features are used and where the app can improve. It receives usage events (such as screens viewed and features tapped) and device information, but never the content of what you log. See the [PostHog privacy policy](https://posthog.com/privacy).
+
+You can change your tracking choice anytime in iOS **Settings → Privacy & Security → Tracking**.
 
 ## Data retention and deletion
 
@@ -55,7 +60,7 @@ Next Shot is not directed at children under 13, and we do not knowingly collect 
 
 ## Your rights
 
-Because we do not collect or hold your personal data on any server, there is nothing for us to hand over, sell, or delete on our side — your data is under your direct control on your device and in your iCloud account. If you have questions about privacy rights under laws such as GDPR or the CCPA, contact us and we will help.
+Your health data is under your direct control on your device and in your iCloud account — we hold none of it on any server. For the limited data handled by our advertising and analytics partners (device identifiers and usage events), you may have rights under laws such as GDPR or the CCPA, including opting out of tracking (iOS Settings → Privacy & Security → Tracking) and requesting access or deletion. Contact us and we will help, including passing deletion requests to our partners.
 
 ## Not medical advice
 
