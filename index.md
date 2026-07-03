@@ -68,4 +68,4 @@ If we change this policy, we will update this page and the effective date above.
 ## Contact
 
 Dodo Media LLC
-Email: mattbennett06@gmail.com
+Email: matt@tearaway.app
